@@ -174,3 +174,16 @@ These considerations vest the mechanism with the rare virtue of being a viable w
 I want to keep the conclusions short because, to be entire ly honest, there is nothing to conclude yet. That was never the purpose of this essay. What I hope instead is to having written in a su fficiently casual and engaging manner to now ask you, the reader, to help me improve these somewhat still primitive ideas so that we ca n, together, act upon them as one. Gaps, areas of improvement, and, why not, even imperfections, are, thus, implied. Criticise it, deco nstruct it, build upon it, take the good and leave the bad, it is up to you. But do bear in mind that the core message is not about the punctual examples given throughout--those are merely necessary to communicate the ideas--but rather about our need to ideate ways to t horoughly include Risk into existing global governance frameworks. For this is part of the change that we need to continue building a w orld we are proud to call our home without the need for exceptions, excuses, or explanations. 
 
 ****
+
+# References
+* Cf., Susan Strange, The Retreat of the State: The Diffusion of Power in the World Economy (Cambridge, U.K.: Cambridge University press, 1996); Kenichi Ohmae, The End of the Nation State: The Rise of Regional Economies (London, U.K.: Ha                 rperCollins, 2008).
+* Cf., C Ism et al., “Global Catastrophic Risks 2017” (Stockholm, Sweden: The Global Challenges Foundation, 2017); WEF, “Global Risks Report 2017” (Geneva, Switzerland: World Economic Forum (WEF), 2017).
+* U Beck, Risk Society: Towards a New Modernity (London, U.K.: SAGE, 1992); U Beck, World Risk Society (Cambridge, U.K.: Polity, 1999).
+* OECD, Risk and Regulatory Policy: Improving the Governance of Risk (Paris, France: Organisation for                  Economic Co-operation and Development (OECD), 2010), 137.",
+* E.g., Frank H Knight, Risk, Uncertainty and Profit (New York, NY: Augustus M. Kelley, 1921).
+* Risk Society: Towards a New Modernity, 29.
+* Risk (London, U.K.: UCL Press, 1995), 9.
+* Knight, Risk, Uncertainty and Profit; Beck, Risk Society: Towards a New Modernity; Peter L Bernstein                 , Against the Gods: The Remarkable Story of Risk (New York, NY: Wiley & Sons, 1996); Charles Perrow, Normal Accidents: Living with High                  Risk Technologies (Princeton, NJ: Princeton University Press, 2011).
+* E.g., Ism et al., “Global Catastrophic Risks 2017.
+* WEF, “Global Risks Report 2017.”
+* Constance L McDermott et al., “Operationalizing Social Safeguards in REDD+: Actors, Interests and Id                 eas,” Environmental Science & Policy 21, no. 1 (2012): 638; cf. B Cashore, G Auld, and D Newsom, Governing through Markets: Forest Cert                 ification and the Emergence of Non-State Authority (New Haven, CT: Yale University Press, 2004).
