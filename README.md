@@ -14,7 +14,6 @@ This is where all the entries that made it to semi-finals in the New Shape Prize
 9. Press the button `Create pull request`.
 10. You will be taken to a new view called a `Pull Request` where your changes will be viewable to everyone. We will then review the changes and reply in to you in that view. Keep track of your Github or email notifications.
 
-### Important caveat
 It is only after the 9th step that your changes are saved as proposed changes. In technical terms the changes are saved in a commit which is pushed to a remote branch and then presented as a `Pull Request`.
 
 [Learn more about Pull Reuests](https://help.github.com/articles/about-pull-requests/)
