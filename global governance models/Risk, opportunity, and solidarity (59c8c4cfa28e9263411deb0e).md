@@ -73,7 +73,7 @@ To adapt global gov ernance to the new challenges of our time we first need to u
 
      Inter alia, the biggest lack that exists is the UN’s incapacity to reach a consensus answer for the question of 'what is the acceptable level of risks that global socie ty should take'. This question about the acceptability or risk is truly difficult to answer. I refer to Beck’s words on the matter for considering them the clearest summation of the difficulties involve [6]:
 
-_Where and how does one draw the line between still acceptable and no longer acceptable exposures? How susceptible to compromise are the presupposed s tandards? Should the possibility of an ecological catastrophe be accepted, for instance, in order to satisfy economic interests? What a re necessities, supposed necessities, and necessities that must be changed?_
+Where and how does one draw the line between still acceptable and no longer acceptable exposures? How susceptible to compromise are the presupposed s tandards? Should the possibility of an ecological catastrophe be accepted, for instance, in order to satisfy economic interests? What a re necessities, supposed necessities, and necessities that must be changed?_
 
 In a nutsh ell, the question of how much Risk is acceptable will always be controversial. No matter the time. No matter the field. No matter the p lace. There will always be some who will want to take more risks than others. This does not only make it hard to even agree on a specif ic level of risk upon which to govern but, in addition, it makes it impossible to reliably work upon any agreed level of risk. 
 
